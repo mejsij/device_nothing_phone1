@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/tequila_phone1.mk
+    $(LOCAL_DIR)/spark_phone1.mk
 
 COMMON_LUNCH_CHOICES := \
-    tequila_phone1-eng \
-    tequila_phone1-user \
-    tequila_phone1-userdebug
+    spark_phone1-eng \
+    spark_phone1-user \
+    spark_phone1-userdebug
